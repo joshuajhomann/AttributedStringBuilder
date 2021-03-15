@@ -56,7 +56,7 @@ label.attributedText = .init {
 ## Example
 
 See the included example project for various use cases:
-![image](./preview.gif "Preview")
+![image](https://github.com/joshuajhomann/AttributedStringBuilder/blob/master/preview.png?raw=true "Preview")
 
 ## Adding *AttributedStringBuilder* as a Dependency
 
